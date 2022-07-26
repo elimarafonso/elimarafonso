@@ -1,8 +1,8 @@
 ### ✋🧔 Olá eu sou Elimar Afonso 
 
-[![LinkedIn](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](https://www.linkedin.com/in/elimarafonso/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=yellow)](https://www.linkedin.com/in/elimarafonso/)
 
-[![E-mail ](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=yellow)](elimar_afonso@hotmail.com)
+[![E-mail ](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](elimar_afonso@hotmail.com)
 
 ![Elimar's GitHub stats](https://github-readme-stats.vercel.app/api?username=elimarafonso&show_icons=true&theme=dracula)
 
