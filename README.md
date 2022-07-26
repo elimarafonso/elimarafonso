@@ -8,7 +8,7 @@ _
 
 
 ![Elimar's GitHub stats](https://github-readme-stats.vercel.app/api?username=elimarafonso&show_icons=true&theme=dracula)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elimarafonso)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias que uso no meu dia:
 
