@@ -1,5 +1,5 @@
 ### ✋🧔 Olá eu sou Elimar Afonso 
-Apaixonado por desenvolvimento de software busco a cada dia novos conhecimentos..
+Apaixonado por desenvolvimento de software busco a cada dia novos desafios.
 
 <br/>
 _
